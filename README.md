@@ -10,10 +10,10 @@ Teacher: Prof. Giandomenico Palumbo
 
 **The content of this course evolves in line with technological evolution**
 
-# Course start/end date: 
-the course starts on 05 Dec and ends at the end of May. The course lasts 2 hours per week at Computer Science Laboratory, IIS headquarters via Roma 298. For details refer to [Course Details](./details.md)
+# Course start/end date
+The course starts on 05 Dec and ends at the end of May. The course lasts 2 hours per week at Computer Science Laboratory, IIS headquarters via Roma 298. For details refer to [Course Details](./details.md)
 
-# Overview:
+# Overview
 The skills that students will develop during the "Become a Data Scientist with ChatGPT, Gemini and Python" path are broad and aim to provide a solid foundation in the field of Data Science and Artificial Intelligence. Thanks to the practical approach and direct interaction with advanced tools such as Python and ChatGPT, students will acquire technical, analytical and problem-solving skills. For details refer to [Course Details](./details.md)
 
 # Course Details
