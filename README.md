@@ -10,17 +10,17 @@ Teacher: Prof. Giandomenico Palumbo
 
 **The content of this course evolves in line with technological evolution**
 
-# Course start/end date
-The course starts on 05 Dec and ends at the end of May. The course lasts 2 hours per week at Computer Science Laboratory, IIS headquarters via Roma 298. For details refer to [Course Details](./details.md)
+# Course start/end date: 
+the course starts on 05 Dec and ends at the end of May. The course lasts 2 hours per week at Computer Science Laboratory, IIS headquarters via Roma 298. For details refer to [# Course Details](./details.md)
 
-# Overview
-The skills that students will develop during the "Become a Data Scientist with ChatGPT, Gemini and Python" path are broad and aim to provide a solid foundation in the field of Data Science and Artificial Intelligence. Thanks to the practical approach and direct interaction with advanced tools such as Python and ChatGPT, students will acquire technical, analytical and problem-solving skills. For details refer to [Course Details](./details.md)
+# Overview:
+The skills that students will develop during the "Become a Data Scientist with ChatGPT, Gemini and Python" path are broad and aim to provide a solid foundation in the field of Data Science and Artificial Intelligence. Thanks to the practical approach and direct interaction with advanced tools such as Python and ChatGPT, students will acquire technical, analytical and problem-solving skills. For details refer to [# Course Details](./details.md)
 
 # Course Details
-[click here](./details.md)
+[# click here](./details.md)
 
 # Syllabus 
-[click here](./syllabus.md)
+[# click here](./syllabus.md)
 
 # Tools used
 To follow the course, you can use a personal laptop.
@@ -28,9 +28,9 @@ In this case, you need to install the **Anaconda Navigator** suite on your lapto
 
 Those who do not have a personal laptop can use the laptops of the computer lab. The environment used is **Google Colab** which can be used with a browser (Chrome for example) from any PC, directly from the address https://colab.research.google.com/
 
-To access Colab you need a **Google account** (those who do not have one can create one from the site https://www.google.com/intl/it/account/about/). Once you have created the Google user, log in to verify access to the environment.
+To access Colab you need to have a **Google account** (those who do not have one can create one from the site https://www.google.com/intl/it/account/about/). Once you have created the Google user, log in to verify access to the environment.
 
-To import notebooks into Colab you also need a **GitHub account**. If you do not have one, you can create it from the website https://github.com/join
+To import notebooks into Colab you need to have a **GitHub account**. If you do not have one, you can create it from the website https://github.com/join
 
 **REMEMBER** to bring with you to the computer lab **UID and PWD to access Google and GitHub**.
 
