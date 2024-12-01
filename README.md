@@ -28,9 +28,9 @@ In this case, you need to install the **Anaconda Navigator** suite on your lapto
 
 Those who do not have a personal laptop can use the laptops of the computer lab. The environment used is **Google Colab** which can be used with a browser (Chrome for example) from any PC, directly from the address https://colab.research.google.com/
 
-To access Colab you need to have a **Google account** (those who do not have one can create one from the site https://www.google.com/intl/it/account/about/). Once you have created the Google user, log in to verify access to the environment.
+To access Colab you need a **Google account** (those who do not have one can create one from the site https://www.google.com/intl/it/account/about/). Once you have created the Google user, log in to verify access to the environment.
 
-To import notebooks into Colab you need to have a **GitHub account**. If you do not have one, you can create it from the website https://github.com/join
+To import notebooks into Colab you also need a **GitHub account**. If you do not have one, you can create it from the website https://github.com/join
 
 **REMEMBER** to bring with you to the computer lab **UID and PWD to access Google and GitHub**.
 
